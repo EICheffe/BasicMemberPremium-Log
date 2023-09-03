@@ -6,7 +6,10 @@
 // @author       El Cheffe (H.Kusch)
 // @match        https://www.geocaching.com/*
 // @grant        none
+// @license      GPL-3.0-only
 // @icon         data:image/png;base64,R0lGODdhDwAPAPIAAP7+/rnS9UqI5D+A4gEqfCZFySZFySZFySH5BAEAAAUALAAAAAAPAA8AAAMsSLrcNDDKqKaFdQqbowCb1HncIwVAaaXTCLGiKcGU/AL04F66zfe/mGNISAAAOw==
+// @updateURL    https://openuserjs.org/meta/El_Cheffe/Basis_Member_Premium_Log_und_GeocacheTB_adoptieren.meta.js
+// @downloadURL  https://openuserjs.org/install/El_Cheffe/Basis_Member_Premium_Log_und_GeocacheTB_adoptieren.user.js
 // ==/UserScript==
 
 (function() {
