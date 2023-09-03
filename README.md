@@ -12,9 +12,13 @@ Ce script ajoute d'une part un lien de journal Premium avec un champ de saisie d
 Le lien du journal premium n'est affiché que pour les membres de base, il n'est pas affiché pour les membres premium !
 
 ![](https://greasyfork.s3.us-east-2.amazonaws.com/ln8olab0bqzkb0oee847cc21w3yl "TopMenu")
+
 **(UK)** Click on your Profile-Picture **| (D)** Klicke auf das Profilbild **| (F)** Cliquez sur votre photo de profil
  
 ![enter image description here](https://greasyfork.s3.us-east-2.amazonaws.com/p2nbpsyysy6wpns6bm3xizgwpk49 "SidebarMenu")
+
 **[ENGLISH]** Two new links in this Menu (BasicMember) and one new link in this Menu (PremiumMember)
+
 **[DEUTSCH]** Zwei neue Links (Basismitgliedschaft) und ein neuer Link (Premiummitgliedschaft)
+
 **[FRANÇAIS]** Deux nouveaux liens dans ce Menu (BasicMember) et un nouveau lien dans ce Menu (PremiumMember)
